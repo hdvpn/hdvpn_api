@@ -1,12 +1,12 @@
 {
-        status:"success",
-        data: [
+        "status":"success",
+        "data": [
             {
-                title: "Automatic",
-                image: "auto",
-                id:"openvpn",
-                newId: "Vpnserverhosting@3441",
-                contant: `
+                "title": "Automatic",
+                "image": "auto",
+                "id":"openvpn",
+                "newId": "Vpnserverhosting@3441",
+                "contant": `
 # Automatically generated OpenVPN client config file
 # Generated on Tue Feb 15 05:34:00 2022 by ip-172-31-37-130.ap-south-1.compute.internal
 
@@ -219,11 +219,11 @@ afcacec8bf2fcec56a5c016bcc463c21
                 `
             },
             {
-                title: "Sydney, Australia",
-                image: "au",
-                id:"openvpn",
-                newId: "Vpnserverhosting@3441",
-                contant: `
+                "title": "Sydney, Australia",
+                "image": "au",
+                "id":"openvpn",
+                "newId": "Vpnserverhosting@3441",
+                "contant": `
 # Automatically generated OpenVPN client config file
 # Generated on Sat Mar 12 04:44:11 2022 by ip-172-31-35-94
 
@@ -435,11 +435,11 @@ e9473833b8d01b6133b445e1f1b262d7
                 `
             },
              {
-                title: "Virginia, Us State",
-                image: "us",
-                id:"openvpn",
-                newId: "Vpnserverhosting@3441",
-                contant: `
+                "title": "Virginia, Us State",
+                "image": "us",
+                "id":"openvpn",
+                "newId": "Vpnserverhosting@3441",
+                "contant": `
 # Automatically generated OpenVPN client config file
 # Generated on Thu Mar 10 11:36:09 2022 by ip-172-31-21-7
 
@@ -651,11 +651,11 @@ c5e1e72e4ea732f0e2e5d0ba3dadbd2b
                 `
             },
             {
-                title: "Paris, France",
-                image: "fr",
-                id:"openvpn",
-                newId: "Vpnserverhosting@3441",
-                contant: `
+                "title": "Paris, France",
+                "image": "fr",
+                "id":"openvpn",
+                "newId": "Vpnserverhosting@3441",
+                "contant": `
 # Automatically generated OpenVPN client config file
 # Generated on Sun Mar 13 07:21:51 2022 by ip-172-31-15-108
 
@@ -867,11 +867,11 @@ f5aa341f086b172c67bcf85c902c8fba
                 `
             },
             {
-                title: "London, UK",
-                image: "gb",
-                id:"openvpn",
-                newId: "Vpnserverhosting@3441",
-                contant: `
+                "title": "London, UK",
+                "image": "gb",
+                "id":"openvpn",
+                "newId": "Vpnserverhosting@3441",
+                "contant": `
 # Automatically generated OpenVPN client config file
 # Generated on Thu Mar 10 12:23:32 2022 by ip-172-31-35-28
 
@@ -1083,11 +1083,11 @@ d805f8bd35484c8a3f2d6b05ee29daee
                 `
             },
             {
-                title: "Mumbai, India",
-                image: "in",
-                id:"openvpn",
-                newId: "Vpnserverhosting@3441",
-                contant: `
+                "title": "Mumbai, India",
+                "image": "in",
+                "id":"openvpn",
+                "newId": "Vpnserverhosting@3441",
+                "contant": `
 # Automatically generated OpenVPN client config file
 # Generated on Thu Mar 10 11:38:33 2022 by ip-172-31-37-130.ap-south-1.compute.internal
 
@@ -1300,11 +1300,11 @@ afcacec8bf2fcec56a5c016bcc463c21
                 `
             },
             {
-                title: "Canada",
-                image: "ca",
-                id:"openvpn",
-                newId: "Vpnserverhosting@3441",
-                contant: `
+                "title": "Canada",
+                "image": "ca",
+                "id":"openvpn",
+                "newId": "Vpnserverhosting@3441",
+                "contant": `
 # Automatically generated OpenVPN client config file
 # Generated on Mon Mar 14 10:51:45 2022 by ip-172-31-7-65
 
@@ -1516,11 +1516,11 @@ e15de158327ccc9bb2062c5e9cd33c00
                 `
             },
             {
-                title: "Singapore",
-                image: "sg",
-                id:"openvpn",
-                newId: "Vpnserverhosting@3441",
-                contant: `
+                "title": "Singapore",
+                "image": "sg",
+                "id":"openvpn",
+                "newId": "Vpnserverhosting@3441",
+                "contant": `
 # Automatically generated OpenVPN client config file
 # Generated on Mon Mar 14 11:07:55 2022 by ip-172-31-21-46
 
@@ -1732,11 +1732,11 @@ df7534ca4fe18d1c8996073cd722faf9
                 `
             },
             {
-                title: "Tokyo, Japan",
-                image: "jp",
-                id:"openvpn",
-                newId: "Vpnserverhosting@3441",
-                contant: `
+                "title": "Tokyo, Japan",
+                "image": "jp",
+                "id":"openvpn",
+                "newId": "Vpnserverhosting@3441",
+                "contant": `
 # Automatically generated OpenVPN client config file
 # Generated on Sat Mar 12 10:53:26 2022 by ip-172-31-14-163
 
