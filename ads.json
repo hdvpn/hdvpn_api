@@ -2,7 +2,7 @@
     "status": 1,
     "data": [
         {
-            "open_ad_show": true,
+            "open_ad_show": false,
             "facebook_interstial_fail": "CAROUSEL_IMG_SQUARE_APP_INSTALL#574328680952852_579153590470361",
             "facebook_native_fail": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
             "facebook_banner": "574328680952852_574331974285856",
@@ -30,10 +30,10 @@
                 "facebook",
                 ""
             ],
-            "rewards_priority": ["google","","",""],
-            "common_rewards": ["ca-app-pub-1930180194555932/6869096848","","",""],
-            "fail_priority": "google",
-            "openapp_fail": "google"
+            "rewards_priority": ["","","",""],
+            "common_rewards": ["","","",""],
+            "fail_priority": "facebook",
+            "openapp_fail": "facebook"
         }
     ]
 }
